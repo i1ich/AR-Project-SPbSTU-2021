@@ -1,6 +1,6 @@
 # AR-Project-SPbSTU-2021
 HEAD
-Creators: Ilia,
+Creators: Ilia, Alexander, Yampil, Ivan
 BODY
 AR Project - interactive campus map of SPbSTU
 Commit requirements:
