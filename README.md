@@ -16,12 +16,12 @@ Code style:
 Camel case
 Comments: 
   Letterhead of file: 
-    /*
-   * FILE: "###.###"
-   * File description(vector declaratioт file e.g.)
-   * Members: Vasya Pupkin, Sasha Trubkin
-   * Date: 12.12.2012
-   */
+     /*
+    * FILE: "###.###"
+    * File description(vector declaratioт file e.g.)
+    * Members: Vasya Pupkin, Sasha Trubkin
+    * Date: 12.12.2012
+    */
   Classes:
     e.g. /*Vector handle class*/
     Functions: 
