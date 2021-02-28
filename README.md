@@ -13,33 +13,33 @@ Description:
 *Date*
 
 Code style:
-Camel case
-Comments: 
-  Letterhead of file: 
-     /*
-    * FILE: "###.###"
-    * File description(vector declaratioт file e.g.)
-    * Members: Vasya Pupkin, Sasha Trubkin
-    * Date: 12.12.2012
-    */
-  Classes:
-    e.g. /*Vector handle class*/
-    Functions: 
-    /* Sum of two vector function
-   * ARGUMENTS:
-   * - vectors to Add
-   *     Vec a, Vec b
-   * RETURNS: (Vec) sum of 2 vectors
-    */
-    Vec Sum(Vec a, Vec b);
-  Objects in classes:
-    // Components
-    double x, y, z
-  Comments are also welcomed before each semantic block of the program:
-    // Sort components
-    for...
-    ...
-    e.g
+  Camel case
+  Comments: 
+    Letterhead of file: 
+       /*
+      * FILE: "###.###"
+      * File description(vector declaratioт file e.g.)
+      * Members: Vasya Pupkin, Sasha Trubkin
+      * Date: 12.12.2012
+      */
+    Classes:
+      e.g. /*Vector handle class*/
+      Functions: 
+      /* Sum of two vector function
+     * ARGUMENTS:
+     * - vectors to Add
+     *     Vec a, Vec b
+     * RETURNS: (Vec) sum of 2 vectors
+      */
+      Vec Sum(Vec a, Vec b);
+    Objects in classes:
+      // Components
+      double x, y, z
+    Comments are also welcomed before each semantic block of the program:
+      // Sort components
+      for...
+      ...
+      e.g
 
   
  
