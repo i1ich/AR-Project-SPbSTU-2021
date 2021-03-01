@@ -1,10 +1,10 @@
 # AR-Project-SPbSTU-2021
 ## HEAD
 ### Team members: 
-   #### Ilia a.k.a. techlead
-   #### Alexander
-   #### Yampil a.k.a. teamlead
-   #### Ivan
+   #### Ilia Doinikov -- **techlead**
+   #### Alexander Kolodinsky
+   #### Yampil Darizhapov -- **teamlead**
+   #### Ivan Troshchenkov
 ## BODY
 AR Project - interactive quest on SPBSTU campus territory. Quest will include mini-games that based on unique AR mechanics which are often not used in popular AR games.
 
