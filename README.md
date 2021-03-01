@@ -1,7 +1,7 @@
 # AR-Project-SPbSTU-2021
-HEAD
-Creators: Ilia, Alexander, Yampil, Ivan
-BODY
+## HEAD
+Team members: Ilia, Alexander, Yampil, Ivan
+## BODY
 AR Project - interactive quest on SPBSTU campus territory. Quest will include mini-games that based on unique AR mechanics which are often not used in popular AR games.
 
 Commit requirements:
