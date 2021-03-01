@@ -30,7 +30,7 @@ Description:
       */
    #### Classes:
        /*Vector handle class*/
-      Functions: 
+   #### Functions: 
       /* Sum of two vector function
      * ARGUMENTS:
      * - vectors to Add
