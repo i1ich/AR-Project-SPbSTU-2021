@@ -9,13 +9,12 @@
 AR Project - interactive quest on SPBSTU campus territory. Quest will include mini-games that based on unique AR mechanics which are often not used in popular AR games.
 
 ## Commit requirements:
-Summary:
-DOC|SOURCE|PROJECT|RECOURCE+*PURPOSE*
-Description:
-*Description(280)*
-*Name*
-*Date*
-
+1.  Language: English
+2.  Bare infinitive (add, fix, load)
+4.  Header line must begin with issue number(#101)
+5.  Brief changes description -- in header
+6.  What changes have been made -- in description
+7.  Enumeration in description starts from "-" with space after that. One line -- one change.
 ## Code style:
   ### Camel case:
        int camelCase;
