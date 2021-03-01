@@ -18,12 +18,12 @@ AR Project - interactive quest on SPBSTU campus territory. Quest will include mi
 ### Commit example:
 #### Header
 ``` c#
-#322 Added textures
+#322 Add textures
 ```
 #### Description
 ```c++
-- added wall texture
-- added ground texture
+- add wall texture
+- add ground texture
 ```
 ## Code style:
   ### Camel case:
